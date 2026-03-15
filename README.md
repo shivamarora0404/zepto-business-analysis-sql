@@ -1,4 +1,4 @@
-#🛒 Zepto Business Analysis using PostgreSQL
+**🛒 Zepto Business Analysis using PostgreSQL**
 
 
 
@@ -10,7 +10,7 @@
 Business analysis of a Zepto product dataset using SQL in PostgreSQL.
 This project explores pricing strategies, discount patterns, inventory availability, and category performance to extract actionable business insights.
 
-📌 Project Overview
+**📌 Project Overview**
 
 Quick commerce companies like Zepto depend heavily on data to manage product pricing, optimize inventory, and maintain efficient supply chains.
 
@@ -29,7 +29,7 @@ Product value comparison
 
 Revenue estimation
 
-🗂 Dataset Description
+**🗂 Dataset Description**
 
 The dataset contains product information available on the Zepto platform.
 
@@ -57,7 +57,8 @@ Data Cleaning
 
 Business Data Analysis
 
-🔎 Project Workflow
+**🔎 Project Workflow**
+
 1️⃣ Data Exploration
 
 Initial exploration was conducted to understand the dataset.
@@ -92,7 +93,7 @@ Standardized pricing fields
 
 This step ensured the dataset was reliable for analysis.
 
-📊 Business Questions Addressed
+**📊 Business Questions Addressed**
 
 The analysis answers the following business questions:
 
@@ -112,7 +113,7 @@ The analysis answers the following business questions:
 
 8️⃣ Calculate the total inventory weight available per category.
 
-📈 Key Insights
+**📈 Key Insights**
 
 Important findings from the analysis:
 
@@ -126,7 +127,7 @@ Important findings from the analysis:
 
 ✔ Inventory distribution differs across categories, affecting storage and logistics planning.
 
-📁 Repository Structure
+**📁 Repository Structure**
 zepto-business-analysis-sql
 │
 ├── README.md
@@ -139,7 +140,8 @@ zepto-business-analysis-sql
 │
 └── presentation
     └── zepto_business_analysis_presentation.pdf
-🚀 How to Run This Project
+
+**🚀 How to Run This Project**
 
 Install PostgreSQL
 
@@ -151,7 +153,7 @@ Run the SQL queries from the analysis file
 
 Review query outputs and insights
 
-📚 Learning Outcomes
+**📚 Learning Outcomes**
 
 This project helped strengthen the following skills:
 
@@ -165,7 +167,7 @@ Business-oriented data analysis
 
 Converting raw data into insights
 
-🔮 Future Improvements
+**🔮 Future Improvements**
 
 Possible extensions for this project:
 
@@ -177,18 +179,17 @@ Perform demand trend analysis
 
 Develop predictive inventory models
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 Shivam Arora
-
 Business Analytics Enthusiast
 Interested in data-driven decision making and analytical problem solving.
 
-💡 Quote
+**💡 Quote**
 
 “Without data, you're just another person with an opinion.”
 — W. Edwards Deming
 
-⭐ If you found this project useful
+**⭐ If you found this project useful**
 
-Feel free to star this repository and connect with me on LinkedIn.
+**Feel free to star this repository and connect with me on LinkedIn.**
